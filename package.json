@@ -1,0 +1,24 @@
+{
+  "name": "react-course-git-test",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[DThis is a \u001b[Btest directory to learn git and node\"",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malikpunit/react-course-git-test.git"
+  },
+  "author": "Punit Malik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malikpunit/react-course-git-test/issues"
+  },
+  "homepage": "https://github.com/malikpunit/react-course-git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
